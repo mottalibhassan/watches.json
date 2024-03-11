@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "SmartWatchX",
+      "model": "SW-200",
+      "color": "Black",
+      "display": "1.3-inch AMOLED",
+      "features": ["Heart Rate Monitor", "Step Counter", "Sleep Tracker"],
+      "price": 149.99
+    },
+    {
+      "id": 2,
+      "name": "TechWear",
+      "model": "TW-3000",
+      "color": "Silver",
+      "display": "1.5-inch LCD",
+      "features": ["GPS", "Fitness Tracker", "Notifications"],
+      "price": 199.99
+    },
+    {
+      "id": 3,
+      "name": "FitGadget",
+      "model": "FG-500",
+      "color": "Rose Gold",
+      "display": "1.2-inch OLED",
+      "features": ["Blood Oxygen Monitor", "Music Control", "Waterproof"],
+      "price": 129.99
+    },
+    {
+      "id": 4,
+      "name": "ActiveLife",
+      "model": "AL-Sport",
+      "color": "Blue",
+      "display": "1.4-inch TFT",
+      "features": ["Pedometer", "Calorie Counter", "Weather Forecast"],
+      "price": 79.99
+    }
+  ]
